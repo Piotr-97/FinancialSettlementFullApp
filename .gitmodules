@@ -1,0 +1,6 @@
+[submodule "financialSettlementBakend"]
+	path = financialSettlementBakend
+	url = https://github.com/Piotr-97/FinacialSettlementBackend
+[submodule "FinancialSettlementFrontend"]
+	path = FinancialSettlementFrontend
+	url = https://github.com/Piotr-97/finset-fe
